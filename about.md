@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Psychedelia in Review is dedicated to exploring and reviewing psychedelic music, particularly for use in ketamine therapy sessions, and other forms of trip-friendly media. Founded by HDG, we aim to provide insights and recommendations to enhance your psychedelic experiences.
